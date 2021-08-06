@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Arthur!
+- 📚 Studying engineering at EFREI Paris
 - 👀 I’m interested in data science, machine learning and Web development
 - 🌱 I’m currently learning react and next.js
 - 📫 You can reach me directly on github!
