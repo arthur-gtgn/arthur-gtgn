@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arthur!
 - 📚 Studying engineering at EFREI Paris
 - 👀 I’m interested in data analysis and finance
-- 🌱 I’m currently learning python and C
+- 🌱 I’m currently learning Python and C
 - 📫 You can reach me directly on github!
 
 <!---
