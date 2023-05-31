@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arthur!
-- 📚 Studying engineering at EFREI Paris
-- 👀 I’m interested in data analysis and finance
-- 🌱 I’m currently learning Python and C
+- 📚 Studying engineering at EFREI Paris (L2)
+- 👀 I’m interested in data analysis and app development
+- 🌱 Coding in Python, Java and Flutter
 - 📫 You can reach me directly on github!
 
 <!---
