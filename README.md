@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arthur!
 - 📚 Studying engineering at EFREI Paris (L3)
-- 👀 I’m interested in data analysis and website development
+- 👀 I’m interested in data analysis, machine learning and web development.
 - 🌱 Coding in Python, Java and JS
 - 📫 You can reach me directly on github!
 
